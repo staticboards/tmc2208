@@ -1,0 +1,10 @@
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.zip
+*.net
+*.csv
+*.xml
+*-cache.*
+gerber/
+assembly/

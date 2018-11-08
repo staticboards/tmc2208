@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name anet8-cache)(type Legacy)(uri "/home/user/src/kicad/kicad Work/Motores/TMC2208-LA_design/TMC2208_SB/libraryFromAnet/anet8-cache.lib")(options "")(descr ""))
+  (lib (name anet8-rescue)(type Legacy)(uri "/home/user/src/kicad/kicad Work/Motores/TMC2208-LA_design/TMC2208_SB/libraryFromAnet/anet8-rescue.lib")(options "")(descr ""))
+)
