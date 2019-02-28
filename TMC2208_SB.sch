@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:TMC2208_SB-cache
 EELAYER 26 0
 EELAYER END
 $Descr User 11693 8268
@@ -1455,7 +1454,7 @@ $EndBitmap
 Text Notes 8825 6425 0    118  ~ 24
 www.staticboards.com
 $Comp
-L anet8-cache:MOUNTHOLE P20
+L staticboards:MOUNTHOLE P20
 U 1 1 5A845B24
 P 900 2925
 F 0 "P20" H 1000 2775 40  0001 C CNN
@@ -1466,7 +1465,7 @@ F 3 "" H 1000 2775 40  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L anet8-cache:MOUNTHOLE P21
+L staticboards:MOUNTHOLE P21
 U 1 1 5A8465BB
 P 900 3325
 F 0 "P21" H 1000 3175 40  0001 C CNN
@@ -1477,7 +1476,7 @@ F 3 "" H 1000 3175 40  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L anet8-cache:MOUNTHOLE P22
+L staticboards:MOUNTHOLE P22
 U 1 1 5A84676A
 P 900 3725
 F 0 "P22" H 1000 3575 40  0001 C CNN
@@ -1488,7 +1487,7 @@ F 3 "" H 1000 3575 40  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L anet8-cache:MOUNTHOLE P23
+L staticboards:MOUNTHOLE P23
 U 1 1 5A84693F
 P 900 4125
 F 0 "P23" H 1000 3975 40  0001 C CNN
@@ -1521,7 +1520,7 @@ F 3 "" H 2875 2575 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L anet8-cache:TMC2208 U3
+L staticboards:TMC2208 U3
 U 1 1 5AB12BD0
 P 4625 3375
 F 0 "U3" H 4975 2075 40  0000 C CNN
